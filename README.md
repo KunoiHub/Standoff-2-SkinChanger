@@ -45,11 +45,12 @@ If none of them are found, the tool will not start.
 1. Launch the emulator.
 2. Open **Standoff 2**.
 3. Equip the skin you want to replace.
-4. Run the program **as Administrator**.
-5. Enter the current skin ID.
-6. Enter the new skin ID.
-7. Choose skin ID by name in the file (skins.txt)
-7. Choose one of the available replacement options.
+4. Build exe as Release | 64
+5. Run the program **as Administrator**.
+6. Enter the current skin ID.
+7. Enter the new skin ID.
+9. Choose skin ID by name in the file (skins.txt)
+10. Choose one of the available replacement options.
 
 If no matches are found, re-equip or unequip the skin in-game and try again.
 
