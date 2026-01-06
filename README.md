@@ -13,7 +13,6 @@ This tool allows you to replace equipped skin IDs locally while playing Standoff
 - Signature-based memory scanning
 - Multiple match detection
 - Replace all found values or select a specific address
-- No network interaction
 - Console-based interface
 
 ---
