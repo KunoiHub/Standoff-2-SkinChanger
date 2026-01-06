@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Globalization;
 
-namespace InternalSkins
+namespace ExternalSkins
 {
     class Program
     {
@@ -188,4 +188,5 @@ namespace InternalSkins
             WriteProcessMemory(hProc, addr, data, data.Length, out _);
         }
     }
+
 }
